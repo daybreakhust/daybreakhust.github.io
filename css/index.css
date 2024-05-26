@@ -6791,7 +6791,7 @@ blockquote.pullquote.right {
     }
   }
   #about-page .about-statistic {
-    min-height: 400px;
+    min-height: 360px;
     width: 43%;
     background: url(https://img02.anheyu.com/adminuploads/1/2022/09/23/632d634f8376d.jpg) no-repeat top;
     background-size: cover;
@@ -7911,6 +7911,7 @@ blockquote.pullquote.right {
     transform: translateY(-100%);
   }
 .author-content-item.skills {
+    min-height: 360px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -7946,8 +7947,8 @@ blockquote.pullquote.right {
     font-size: 66px;
     font-weight: 700;
     box-shadow: var(--anzhiyu-shadow-blackdeep);
-    width: 120px;
-    height: 120px;
+    width: 90px;
+    height: 90px;
     border-radius: 30px;
   }
   .tags-group-icon img {
